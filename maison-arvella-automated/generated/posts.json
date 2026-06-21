@@ -1,0 +1,32 @@
+[
+  {
+    "title": "France and the USA remain key stages for street art culture",
+    "category": "Street Art",
+    "region": "France + USA",
+    "date": "2026-06-21",
+    "excerpt": "Maison Arvella follows how urban art moves from city walls to galleries, fairs and collector homes, with a focus on credible cultural sources.",
+    "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%3E%3Crect%20width='100%25'%20height='100%25'%20fill='%23111827'/%3E%3Ccircle%20cx='900'%20cy='160'%20r='220'%20fill='%23f97316'/%3E%3Ctext%20x='70'%20y='430'%20font-size='82'%20font-family='Arial'%20font-weight='900'%20fill='white'%3ESTREET%20ART%3C/text%3E%3Ctext%20x='75'%20y='505'%20font-size='32'%20font-family='Arial'%20fill='%23fed7aa'%3EMaison%20Arvella%3C/text%3E%3C/svg%3E",
+    "sources": ["Maison Arvella demo source"],
+    "status": "Demo"
+  },
+  {
+    "title": "Iconic paintings inspire a new wave of accessible wall art",
+    "category": "Iconic Paintings",
+    "region": "USA",
+    "date": "2026-06-21",
+    "excerpt": "The gallery model focuses on decorative, clearly labelled prints inspired by famous visual culture without pretending to sell original masterpieces.",
+    "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%3E%3Crect%20width='100%25'%20height='100%25'%20fill='%230f172a'/%3E%3Crect%20x='130'%20y='120'%20width='720'%20height='500'%20rx='40'%20fill='%2322c55e'/%3E%3Ctext%20x='180'%20y='420'%20font-size='70'%20font-family='Arial'%20font-weight='900'%20fill='white'%3EICONIC%20ART%3C/text%3E%3C/svg%3E",
+    "sources": ["Maison Arvella demo source"],
+    "status": "Demo"
+  },
+  {
+    "title": "The art market rewards strong identity, not random products",
+    "category": "Art Market",
+    "region": "France",
+    "date": "2026-06-21",
+    "excerpt": "Maison Arvella is built around a focused brand: street art, contemporary mood, and famous painting references, instead of a generic dropshipping catalogue.",
+    "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%3E%3Crect%20width='100%25'%20height='100%25'%20fill='%23312e81'/%3E%3Ccircle%20cx='250'%20cy='220'%20r='180'%20fill='%23e11d48'/%3E%3Ctext%20x='70'%20y='430'%20font-size='70'%20font-family='Arial'%20font-weight='900'%20fill='white'%3EART%20MARKET%3C/text%3E%3C/svg%3E",
+    "sources": ["Maison Arvella demo source"],
+    "status": "Demo"
+  }
+]
